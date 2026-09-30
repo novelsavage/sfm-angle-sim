@@ -22,7 +22,7 @@ npm run dev
 
 `main`へのpushで `.github/workflows/pages.yml` がテスト・ビルド・Pages公開を実行します。Actionsの実行画面から再実行もできます。公開対象は `dist/` だけです。
 
-Pagesの配置先は公式 `configure-pages` アクションの `base_path` 出力をViteへ渡します。ローカルで同じパスを検証する場合は `BASE_PATH=/sfm-angle-sim npm run build` を実行します。
+Pagesの配置先はリポジトリ名から `/sfm-angle-sim/` としてViteへ渡します。ローカルで同じパスを検証する場合は `BASE_PATH=/sfm-angle-sim npm run build` を実行します。テスト・ビルド・成果物作成はPages初期設定とは別のジョブで実行されます。
 
 初回はワークフローからPagesを有効化します。権限やプランによって失敗する場合は、リポジトリの Settings → Pages → Source で GitHub Actions を選択してください。非公開リポジトリのPagesはGitHubの契約プランによって利用できない場合があります。
 
