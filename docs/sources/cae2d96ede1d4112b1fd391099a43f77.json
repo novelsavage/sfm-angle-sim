@@ -1,0 +1,24 @@
+{
+  "uid": "cae2d96ede1d4112b1fd391099a43f77",
+  "name": "Studio apartment (vray baked textures included)",
+  "description": "Studio apartment\nUnity example is here https://vimeo.com/108045732\nAdd glossiness an you wish\nAny questions / bags or need different file, feel free to write me: vr@vire.one",
+  "viewerUrl": "https://sketchfab.com/3d-models/studio-apartment-vray-baked-textures-included-cae2d96ede1d4112b1fd391099a43f77",
+  "embedUrl": "https://sketchfab.com/models/cae2d96ede1d4112b1fd391099a43f77/embed",
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "isDownloadable": true,
+  "faceCount": 160870,
+  "publishedAt": "2016-11-20T11:41:56.726851",
+  "updatedAt": "2022-11-16T20:37:19.696151",
+  "author": {
+    "name": "zamorev4d",
+    "url": "https://sketchfab.com/zamorev4d"
+  },
+  "checkedAt": "2026-09-30"
+}

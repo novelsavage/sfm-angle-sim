@@ -1,0 +1,17 @@
+{
+  "uid": "697c4aec7ef14b0ab8fc9f06961acd64",
+  "name": "都営大江戸線 都庁前駅 バリアフリートイレ（男性トイレ側）",
+  "description": "2021年度「東京都デジタルツイン実現プロジェクト」実証において、都営大江戸線 都庁前駅のバリアフリートイレをスマートフォンLiDARでスキャンして得られた点群から3Dメッシュモデルを作成しました。バリアフリートイレの詳細な設備を確認することができます。\n\n**東京都デジタルツイン実現プロジェクト** ⇒ https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/\n\n**実証 03 スマートフォンを活用した3Dマップ更新検証** ⇒ https://info.tokyo-digitaltwin.metro.tokyo.lg.jp/zissyou03/\n\n**「東京都オープンデータカタログサイト」でオープンデータも公開しています。** ⇒ https://catalog.data.metro.tokyo.lg.jp/dataset/t000029d0000000012\n\nデジタルツイン３Dビューアでは、ベースとなる都庁前駅構内の点群データに重ね合わせで表示することも可能です。ぜひご確認ください。\n\n**東京都デジタルツイン３Dビューア**  ⇒ https://3dview.tokyo-digitaltwin.metro.tokyo.lg.jp/",
+  "viewerUrl": "https://sketchfab.com/3d-models/697c4aec7ef14b0ab8fc9f06961acd64",
+  "embedUrl": "https://sketchfab.com/models/697c4aec7ef14b0ab8fc9f06961acd64/embed",
+  "license": {},
+  "isDownloadable": false,
+  "faceCount": 682450,
+  "publishedAt": "2021-12-09T03:43:31.839650",
+  "updatedAt": "2022-09-29T09:51:21.371754",
+  "author": {
+    "name": "東京都デジタルツイン実現プロジェクト",
+    "url": "https://sketchfab.com/digitaltwin_tokyo-metro-gov"
+  },
+  "checkedAt": "2026-09-30"
+}

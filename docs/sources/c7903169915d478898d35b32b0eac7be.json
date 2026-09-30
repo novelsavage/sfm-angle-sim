@@ -1,0 +1,24 @@
+{
+  "uid": "c7903169915d478898d35b32b0eac7be",
+  "name": "Studio Apartment",
+  "description": "A studio apartment I had to make as part of school project.\n\nTo see how I textured this model visit [https://www.artstation.com/artwork/148b52](http://)",
+  "viewerUrl": "https://sketchfab.com/3d-models/studio-apartment-c7903169915d478898d35b32b0eac7be",
+  "embedUrl": "https://sketchfab.com/models/c7903169915d478898d35b32b0eac7be/embed",
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "isDownloadable": true,
+  "faceCount": 295296,
+  "publishedAt": "2021-11-23T05:50:30.417530",
+  "updatedAt": "2022-07-19T11:53:55.432007",
+  "author": {
+    "name": "Shaz",
+    "url": "https://sketchfab.com/shaz13"
+  },
+  "checkedAt": "2026-09-30"
+}
